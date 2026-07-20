@@ -1,4 +1,4 @@
-# 🧠 Numerology Cycle 1 – Voro8 / TITAN Initializhe first operational layer of the **Voro8 / TITAN Numerology Framework**. This project is dedicated to the practice of **presence**, **intentionality**, and **KPI sequencing** aligned with Numerology 1
+# 🧠 Numerology Cycle 1 – Initializhe first operational layer of the **Numerology Framework**. This project is dedicated to the practice of **presence**, **intentionality**, and **KPI sequencing** aligned with Numerology 1
 
 ---
 
@@ -9,5 +9,5 @@ Cycle-1 marks the **initiation** of your long-term context engine — the place 
 - ⚡ **Numerology 1**: Initiative, identity, leadership, and direct action
 - 🔁 **KPI Tracking**: “Keep Presence” Logs
 - 🌀 **System Identity**: `brforeal`, `bmichaelh13`, `brforeal.dev`
-- 🧱 **Frameworks**: TITAN Deciders, Voro8 Context Layers, Mindset Recursion
+- 🧱 **Frameworks**: Deciders, Context Layers, Mindset Recursion
 

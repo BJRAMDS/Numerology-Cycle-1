@@ -31,5 +31,5 @@ Each KPI should be logged with:
 ---
 
 > *“Presence is the first architecture. Without it, nothing stays built.”*  
-— TITAN Directive: Cycle-1
+— Directive: Cycle-1
 

@@ -1,11 +1,12 @@
 // scripts/setup.js
 // 🧠 Runtime Bootstrap for Numerology-Cycle-1
 // Date: 05/14/2025
+// Date: 07/20/2026
 
 const { logPhaseSummary, phaseClock, taskChecklist } = require('../identity-tracker/NumerologicalNetCycle.js');
 
 
-console.log(`\n🚀 Initializing TITAN Runtime Layer — [${new Date().toLocaleDateString()}]`);
+console.log(`\n🚀 Initializing Runtime Layer — [${new Date().toLocaleDateString()}]`);
 console.log(`🔢 Numerology: 1 — Leadership, Identity, Presence`);
 
 logPhaseSummary();
