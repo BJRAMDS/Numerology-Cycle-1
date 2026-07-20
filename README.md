@@ -1,4 +1,4 @@
-# 🧠 Numerology Cycle 1 – Initializhe first operational layer of the **Numerology Framework**. This project is dedicated to the practice of **presence**, **intentionality**, and **KPI sequencing** aligned with Numerology 1
+# 🧠 Numerology Cycle 1 – Initialized The first operational layer of the **Numerology Framework**. This project is dedicated to the practice of **presence**, **intentionality**, and **KPI sequencing** aligned with Numerology 1
 
 ---
 
