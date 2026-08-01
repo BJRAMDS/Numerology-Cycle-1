@@ -15,6 +15,10 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
+    /* Allow plain .js files to be imported alongside .ts/.tsx — needed
+       for any future dev work that lives in .js instead of .tsx */
+    "allowJs": true,
+
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
