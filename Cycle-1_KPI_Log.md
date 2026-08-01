@@ -1,35 +1,37 @@
-# ✍️ KPI Model: Keep Presence (1–3)
+# ✍️ Keep Presence Log
 
-- **KPI 1** → Keep Presence(1): Grounding signal  
-- **KPI 2** → Keep Presence(2): Movement with intent  
-- **KPI 3** → Keep Presence(3): Echo with clarity  
+Each day, log three things:
 
-Each KPI should be logged with:
+- **Initiated** — what you started without being asked
+- **Decided** — a call you made, no committee
+- **Shipped** — what moved from idea to real
 
-- Timestamp  
-- Mood signature  
-- Reflection or signal notice  
-- Completion or carry-forward status
+Run `node scripts/dailyPresenceLog.js` to log a new entry — it prompts you for each field and appends the entry to the **Daily Entries** section below automatically.
 
 ---
 
 ## 🧭 Project Status
 
-- ✅ `README.md` initiated  
-- 🧩 Cycle 1 numerology verified: 04/14/2025 = 9  
-- 📦 Repo: [Numerology-Cycle-1](https://github.com/BJRAMDS/Numerology-Cycle-1)  
-- 🚧 Phase: `onStart → onTask → onUpdate`  
+- ✅ `README.md` initiated
+- 🧩 Cycle 1 numerology verified: 07/29/2026 = 1
+- 📦 Repo: [Numerology-Cycle-1](https://github.com/BJRAMDS/Numerology-Cycle-1)
+- 🚧 Phase: `onStart → onTask → onUpdate`
 
 ---
 
 ## 📌 Next Steps
 
-- [ ] Log initial KPIs in `Cycle-1_KPI_Log.md`
+- [x] Log initial KPIs in `Cycle-1_KPI_Log.md` — model finalized, logging script live
 - [ ] Attach visual tracker for progression mapping
 - [ ] Define `mindSetRecursion()` for task chaining
 
 ---
 
-> *“Presence is the first architecture. Without it, nothing stays built.”*  
+> *"Presence is the first architecture. Without it, nothing stays built."*
 — Directive: Cycle-1
 
+---
+
+## 📓 Daily Entries
+
+<!-- entries below are appended automatically by scripts/dailyPresenceLog.js — do not hand-edit the format -->
